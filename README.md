@@ -44,7 +44,7 @@ Since these files are uploaded in their **original, unedited state** from severa
 ### Running the Code
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Sai-Sampath-Vegi/Sai-Sampath-old-portfolio.git](https://github.com/Sai-Sampath-Vegi/Sai-Sampath-old-portfolio.git)
+   git clone https://github.com/Sai-Sampath-Vegi/Sai-Sampath-old-portfolio.git
    ```
 2. **Run the Commands:**
     For Java Projects:
