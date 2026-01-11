@@ -47,12 +47,16 @@ Since these files are uploaded in their **original, unedited state** from severa
    git clone https://github.com/Sai-Sampath-Vegi/Sai-Sampath-old-portfolio.git
    ```
 2. **Run the Commands:**
-    For Java Projects:
-       javac "Original File Name.java"
-       java "OriginalFileName"
-    For C Projects:
-       gcc "Original File Name.c" -o output
-       ./output
+ * **For Java Projects:**
+  ```bash
+  javac "Original File Name.java"
+  java "OriginalFileName"
+  ```
+* **For C Projects:**
+  ```bash
+  gcc "Original File Name.c" -o output
+  ./output
+  ```
 
 ---
 
