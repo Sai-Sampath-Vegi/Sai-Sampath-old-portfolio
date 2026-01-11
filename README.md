@@ -48,16 +48,16 @@ Since these files are uploaded in their **original, unedited state** from severa
    ```
 2. **Run the Commands:**
  * **For Java Projects:**
-  ```bash
-  javac "Original File Name.java"
-  java "OriginalFileName"
-  ```
+   ```bash
+   javac "Original File Name.java"
+   java "OriginalFileName"
+   ```
 * **For C Projects:**
-  ```bash
-  gcc "Original File Name.c" -o output
-  ./output
-  ```
-
+   ```bash
+   gcc "Original File Name.c" -o output
+   ./output
+   ```
+   
 ---
 
 ## Conclusion
